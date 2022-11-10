@@ -2,7 +2,7 @@
     <section class="products">
         <b-container>
             <header class="products-header">
-                <h2>Our Products</h2>
+                <h1>Our Products</h1>
                 <p>In addition to its market-leading news service, CTFN offers readers a range of tools and services to
                     augment their investment research and awareness of activity in the deal space and beyond.</p>
             </header>
@@ -19,6 +19,8 @@
                     the platform.</p>
             </div>
 
+            <div class="hoizontal-line mt-4"></div>
+
             <div class="pt-4">
                 <div class="skew-box">
                     <h3 class="box-item">The Daily Observer</h3>
@@ -31,6 +33,9 @@
                     hours.
                     All Daily Observer content and associated links can be searched and sorted on the platform.</p>
             </div>
+
+            <div class="hoizontal-line mt-4"></div>
+
 
             <div class="pt-4">
                 <div class="skew-box">
@@ -48,6 +53,9 @@
                     <li>Kirsten Edwards-Warren, EVP, Deputy Head of EMEA, Compass Lexecon</li>
                 </ul>
             </div>
+
+            <div class="hoizontal-line mt-4"></div>
+
 
             <div class="pt-4">
                 <div class="skew-box">

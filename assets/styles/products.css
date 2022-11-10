@@ -1,7 +1,16 @@
 .products-header {
-    max-width: 700px;
+    max-width: 780px;
     margin: 0 auto;
     text-align: center;
+}
+
+h1 {
+    color: black;
+}
+
+p {
+    font-size: 17px;
+    color: black;
 }
 
 .skew-box {
@@ -19,4 +28,11 @@
     text-decoration: none;
     transform: skew(-20deg);
     text-transform: capitalize;
+}
+
+.hoizontal-line {
+    height: 3px;
+    background: #12a8db;
+    max-width: 850px;
+    margin: 0 auto;
 }

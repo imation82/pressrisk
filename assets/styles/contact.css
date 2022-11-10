@@ -1,0 +1,62 @@
+.contact {
+    padding-bottom: 100px;
+}
+
+.input-field {
+    border: 1px solid black;
+    border-radius: 30px;
+    background: #cae8ff;
+    margin-bottom: 20px;
+}
+
+.form-control:focus {
+    background: #cae8ff;
+}
+
+h1 {
+    color: black;
+}
+
+.contact-description {
+    color: black;
+    font-size: 17px;
+
+}
+
+.submitBtn {
+    background: #12a8db;
+    color: white;
+    padding: 16px 70px;
+    font-size: 24px;
+    font-weight: 500;
+    border-radius: 40px;
+    border: none;
+}
+
+.location {
+    font-size: 17px;
+    color: black;
+}
+
+.join-section {
+    text-align: right;
+    padding-top: 20px;
+
+}
+
+.join-description {
+    font-size: 17px;
+    margin-left: 100px;
+    color: black;
+}
+
+.commitment {
+    padding-top: 50px;
+    text-align: center;
+}
+
+.commitment-description {
+    font-size: 17px;
+    color: black;
+    margin-top: 20px;
+}
