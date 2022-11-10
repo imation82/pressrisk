@@ -1,0 +1,27 @@
+.herosection {
+    padding: 100px 0;
+}
+
+.herosection-content {
+    display: flex;
+}
+
+.herosection-content-items {
+    color: black;
+}
+
+.hersection-content-description {
+    max-width: 400px;
+    font-weight: 400;
+    font-size: 17px;
+    margin-top: 15px;
+}
+
+
+
+.rightBorder {
+    margin: 0 15px 0 15px;
+    height: 50px;
+    width: 6px;
+    background: black;
+}
