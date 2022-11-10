@@ -1,0 +1,38 @@
+.products-header {
+    max-width: 780px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+h1 {
+    color: black;
+}
+
+p {
+    font-size: 17px;
+    color: black;
+}
+
+.skew-box {
+    display: inline-block;
+    padding: 15px 30px;
+    transition: background 0.3s, color 0.3s;
+    transform: skew(20deg);
+    background: #2e82ef;
+    color: #fff;
+    text-align: center;
+}
+
+.box-item {
+    display: block;
+    text-decoration: none;
+    transform: skew(-20deg);
+    text-transform: capitalize;
+}
+
+.hoizontal-line {
+    height: 3px;
+    background: #12a8db;
+    max-width: 850px;
+    margin: 0 auto;
+}

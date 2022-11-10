@@ -1,8 +1,8 @@
 <template>
     <section class="herosection">
         <b-container>
-            <b-row>
-                <b-col lg="7">
+            <b-row class="justify-content-center align-items-center">
+                <b-col lg="6">
                     <div class="herosection-content">
                         <h1 class="herosection-content-items">News</h1>
                         <div class="rightBorder"></div>
@@ -15,7 +15,9 @@
                         follows critical merger and regulatory events across
                         multiple industries and sectors.</p>
                 </b-col>
-                <b-col lg="5"></b-col>
+                <b-col lg="6">
+                    <b-img src="../assets/images/hero/desktop.png" fluid></b-img>
+                </b-col>
             </b-row>
         </b-container>
     </section>

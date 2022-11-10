@@ -1,0 +1,11 @@
+.team-header {
+    max-width: 780px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.team-member {
+    background: #12a8db;
+    text-align: center;
+    height: 400px;
+}

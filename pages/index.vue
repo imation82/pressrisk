@@ -2,6 +2,9 @@
   <section>
     <Header />
     <HeroSection />
+    <Products />
+    <Team />
+    <Contact />
   </section>
 </template>
 
@@ -12,6 +15,9 @@ export default {
   components: {
     Header: () => import("@/components/Header.vue"),
     HeroSection: () => import("@/components/HeroSection.vue"),
+    Products: () => import("@/components/Products.vue"),
+    Team: () => import("@/components/Team.vue"),
+    Contact: () => import("@/components/Contact.vue"),
   },
 };
 </script>
