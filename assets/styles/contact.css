@@ -13,6 +13,10 @@
     background: #cae8ff;
 }
 
+.input-field::placeholder {
+    color: black;
+}
+
 h1 {
     color: black;
 }
@@ -20,7 +24,7 @@ h1 {
 .contact-description {
     color: black;
     font-size: 17px;
-
+    padding: 20px 0
 }
 
 .submitBtn {
@@ -48,6 +52,7 @@ h1 {
     font-size: 17px;
     margin-left: 100px;
     color: black;
+    padding: 20px 0
 }
 
 .commitment {

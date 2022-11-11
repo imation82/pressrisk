@@ -8,20 +8,35 @@
 
 .herosection-content-items {
     color: black;
+    font-size: 48px;
 }
 
 .hersection-content-description {
     max-width: 400px;
     font-weight: 400;
     font-size: 17px;
-    margin-top: 15px;
+    margin-top: 20px;
 }
 
 
 
 .rightBorder {
-    margin: 0 15px 0 15px;
-    height: 50px;
+    margin: 0 12px 0 12px;
+    height: 60px;
     width: 6px;
     background: black;
+}
+
+@media (max-width: 992px) {
+    .herosection-content-items {
+        color: black;
+        font-size: 30px;
+    }
+
+    .rightBorder {
+        margin: 0 7px 0 7px;
+        height: 40px;
+        width: 6px;
+        background: black;
+    }
 }

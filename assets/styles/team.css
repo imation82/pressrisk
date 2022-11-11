@@ -8,6 +8,10 @@
     text-align: center;
 }
 
+.team-header-description {
+    padding-top: 20px;
+}
+
 .team-member {
     background: #12a8db;
     text-align: center;
