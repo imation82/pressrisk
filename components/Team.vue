@@ -1,9 +1,10 @@
 <template>
-    <section class="team">
+    <section id="team" class="team scroll-mt">
         <b-container>
             <header class="team-header">
                 <h1>Our Team</h1>
-                <p>CTFN was born out of the desire to meet the need for quality reporting on major corporate events. We
+                <p class="team-header-description">CTFN was born out of the desire to meet the need for quality
+                    reporting on major corporate events. We
                     are committed to excellent journalism and strive to meet our readers' unique demand for timely
                     information by employing intrepid and experienced reporters and analysts who share our core values
                     of
@@ -25,7 +26,8 @@
 
             <header class="team-header mt-5">
                 <h1>Team Members</h1>
-                <p>Our growing team of journalists has decades of investigative reporting experience and is supported by
+                <p class="team-header-description">Our growing team of journalists has decades of investigative
+                    reporting experience and is supported by
                     multiple seasoned and well-researched analysts.</p>
             </header>
 
@@ -46,4 +48,8 @@
 </template>
 <style scoped>
 @import "../assets/styles/team.css";
+
+.scroll-mt {
+    scroll-margin-top: 190px;
+}
 </style>

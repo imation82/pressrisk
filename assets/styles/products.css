@@ -8,6 +8,10 @@
     text-align: center;
 }
 
+.product-header-description {
+    padding-top: 20px;
+}
+
 h1 {
     color: black;
 }

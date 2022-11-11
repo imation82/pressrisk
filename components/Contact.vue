@@ -1,5 +1,5 @@
 <template>
-    <section class="contact">
+    <section id="contact" class="contact scroll-mt">
         <b-container>
             <b-row>
                 <b-col lg="6">
@@ -12,7 +12,7 @@
                         </p>
                     </header>
                     <div>
-                        <b-form-input class="input-field" id="input-large" size="lg" placeholder="You Name">
+                        <b-form-input class="input-field" id="input-large" size="lg" placeholder="Your Name">
                         </b-form-input>
                         <b-form-input class="input-field" id="input-large" size="lg" placeholder="Your Email">
                         </b-form-input>
@@ -27,7 +27,7 @@
                 <b-col lg="6">
 
                     <div class="text-right">
-                        <h1>Our Offices</h1>
+                        <h1 class="mb-4">Our Offices</h1>
                         <p class="location" v-for="(address, i) in addresses" :key="i">{{ address.location }}</p>
                     </div>
 
@@ -81,4 +81,8 @@ export default {
 </script>
 <style scoped>
 @import "../assets/styles/contact.css";
+
+.scroll-mt {
+    scroll-margin-top: 190px;
+}
 </style>

@@ -14,8 +14,8 @@
                     </div>
                     <transition name="slide">
                         <div v-if="iconShow" class="navbar-links-mobileView">
-                            <ul>
-                                <li @click="iconShow = !iconShow" class="mobileView-items"><a href="#about">about</a>
+                            <ul class="mobileView-list">
+                                <li @click="iconShow = !iconShow" class="mobileView-items"><a href="#about">About</a>
                                 </li>
                                 <li @click="iconShow = !iconShow" class="mobileView-items">
                                     <a href="#products">Products</a>

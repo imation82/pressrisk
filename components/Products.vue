@@ -1,9 +1,10 @@
 <template>
-    <section class="products">
+    <section id="products" class="products scroll-mt">
         <b-container>
             <header class="products-header">
                 <h1>Our Products</h1>
-                <p>In addition to its market-leading news service, CTFN offers readers a range of tools and services to
+                <p class="product-header-description">In addition to its market-leading news service, CTFN offers
+                    readers a range of tools and services to
                     augment their investment research and awareness of activity in the deal space and beyond.</p>
             </header>
             <div class="pt-4">
@@ -46,7 +47,7 @@
                     table with a speaker who offers a unique perspective on a topic we are covering at the time.
                     Examples of
                     some past speakers CTFN has hosted for the Speaker Series events include:</p>
-                <ul>
+                <ul class="ml-5">
                     <li>Joshua Wright. Former Commissioner, FTC</li>
                     <li>Nathan Leamer, FCC staffer and former advisor to Adjit Pai</li>
                     <li>Shigeru Mishima, A dissident shareholder of Takeda during the Shire/Takeda deal</li>
@@ -64,7 +65,7 @@
                 <p class="pt-3">
                     CTFN readers have access to a range of resources on our platform to enhance their research
                     resources:</p>
-                <ul>
+                <ul class="ml-5">
                     <li>DMA Alerts – Realtime alerts of all Definitive Merger Agreements, as they are filed at the SEC.
                         The
                         Pressrisk platform also applies an algorithm that extracts relevant details and clauses so our
@@ -93,4 +94,8 @@
 </template>
 <style>
 @import "../assets/styles/products.css";
+
+.scroll-mt {
+    scroll-margin-top: 190px;
+}
 </style>
