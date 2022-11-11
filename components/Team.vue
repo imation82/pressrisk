@@ -1,5 +1,5 @@
 <template>
-    <section>
+    <section class="team">
         <b-container>
             <header class="team-header">
                 <h1>Our Team</h1>
@@ -11,12 +11,32 @@
             </header>
 
             <b-row>
-                <b-col lg="4" v-for="(n, i) in 9" :key="n" class="mt-5">
+                <b-col lg="4" v-for="(n, i) in 9" :key="i" class="mt-5">
                     <div class="team-member">
                         <div class="team-member-content">
-                            <h3>Firstname Lastname</h3>
-                            <h2>Title</h2>
-                            <p>[Bio goes here.]</p>
+                            <h3 class="team-name">Firstname Lastname</h3>
+                            <h4 class="team-title">Title</h4>
+                            <div class="horizontal-line-style"></div>
+                            <p class="team-bio">[Bio goes here.]</p>
+                        </div>
+                    </div>
+                </b-col>
+            </b-row>
+
+            <header class="team-header mt-5">
+                <h1>Team Members</h1>
+                <p>Our growing team of journalists has decades of investigative reporting experience and is supported by
+                    multiple seasoned and well-researched analysts.</p>
+            </header>
+
+            <b-row>
+                <b-col lg="4" v-for="(n, i) in 6" :key="i" class="mt-5">
+                    <div class="team-member">
+                        <div class="team-member-content">
+                            <h3 class="team-name">Firstname Lastname</h3>
+                            <h4 class="team-title">Title</h4>
+                            <div class="horizontal-line-style"></div>
+                            <p class="team-bio">[Bio goes here.]</p>
                         </div>
                     </div>
                 </b-col>
@@ -24,6 +44,6 @@
         </b-container>
     </section>
 </template>
-<style>
+<style scoped>
 @import "../assets/styles/team.css";
 </style>

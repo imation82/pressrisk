@@ -1,15 +1,19 @@
 .navbar-background {
-  background: #2e82ef;
+  background: #12a8db;
 }
 
 .navbar-items {
-  padding: 20px 0px;
+  padding: 10px 0px;
 }
 
 .main-content {
   display: flex;
   justify-content: space-between;
   align-items: center;
+}
+
+.logo {
+  width: 200px;
 }
 
 .logoTitle {
@@ -100,7 +104,7 @@
   .navbar-links-mobileView {
     display: inline-block;
     position: absolute;
-    background: #2e82ef;
+    background: #12a8db;
     color: white;
     z-index: 1;
     width: 100%;
