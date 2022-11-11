@@ -3,7 +3,7 @@
         <nav id="nav" :class="toggleNavClass()">
             <b-container>
                 <main class="main-content">
-                    <h2 class="logoTitle">CTFN</h2>
+                    <b-img src="../assets/images/logo.png" class="logo" fluid></b-img>
                     <div class="navbar-links">
                         <MenuLinks />
                     </div>
@@ -87,14 +87,14 @@ export default {
 }
 
 .is_sticky {
-    padding: 20px 0px;
+    padding: 10px 0px;
     position: fixed;
     top: 0;
     right: 0;
     left: 0;
     z-index: 20;
     width: 100%;
-    background: #2e82ef;
+    background: #12a8db;
 }
 
 @media screen and (max-width: 575px) {

@@ -5,6 +5,7 @@
     <Products />
     <Team />
     <Contact />
+    <Footer />
   </section>
 </template>
 
@@ -18,6 +19,7 @@ export default {
     Products: () => import("@/components/Products.vue"),
     Team: () => import("@/components/Team.vue"),
     Contact: () => import("@/components/Contact.vue"),
+    Footer: () => import("@/components/Footer.vue"),
   },
 };
 </script>

@@ -1,0 +1,40 @@
+.footer {
+    padding: 100px 0;
+    background: #12a8db;
+    position: relative;
+}
+
+.footer-top {
+    display: block;
+    position: absolute;
+    top: -154px;
+    left: 0;
+}
+
+.terms-policy {
+    margin-top: 30px;
+    display: flex;
+    justify-content: center;
+}
+
+.terms {
+    color: white
+}
+
+.privacy {
+    color: white;
+    margin-left: 60px;
+}
+
+.copyright {
+    color: white;
+    font-size: 24px;
+    font-weight: 500px;
+    margin-top: 40px;
+}
+
+@media (max-width: 992px) {
+    .footer-top {
+        display: none;
+    }
+}
