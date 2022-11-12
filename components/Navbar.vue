@@ -1,6 +1,6 @@
 <template>
     <section class="navbar-background">
-        <nav id="nav" :class="toggleNavClass()">
+        <nav id="nav" class="navbar-items">
             <b-container>
                 <main class="main-content">
                     <b-img src="../assets/images/logo.png" @click="$router.push('/')" class="logo" fluid></b-img>
@@ -60,16 +60,7 @@ export default {
                 this.active = false;
             }
         };
-    },
-    methods: {
-        toggleNavClass() {
-            if (this.active == false) {
-                return "navbar-items";
-            } else {
-                return "is_sticky";
-            }
-        },
-    },
+    }
 };
 </script>
 <style scoped>
