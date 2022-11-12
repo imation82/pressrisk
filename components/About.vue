@@ -1,11 +1,5 @@
 <template>
-    <section id="about" class="about scroll-mt">
-        <div class="visual-top">
-            
-        </div>
-        <div class="visual-bottom">
-           
-        </div>        
+    <section id="about" class="about scroll-mt">      
         <b-container>
             <b-row>
                 <b-col cols="4">

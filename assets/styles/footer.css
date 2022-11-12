@@ -20,7 +20,7 @@
 .terms {
     font-family: 'Poppins';
     color: white;
-    font-size: 30px;
+    font-size: 25px;
 }
 
 .terms:hover,
@@ -33,7 +33,7 @@
 .privacy {
     font-family: 'Poppins';
     color: white;
-    font-size: 30px;
+    font-size: 25px;
     margin-left: 60px;
 }
 
