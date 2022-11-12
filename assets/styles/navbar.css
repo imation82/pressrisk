@@ -33,19 +33,23 @@
 }
 
 .subscribeBtn {
+  font-family: 'Poppins';
   padding: 15px 30px;
   background: white;
   border-radius: 50px;
   font-weight: 500;
   font-size: 18px;
   line-height: 18px;
-  letter-spacing: 2px;
+  letter-spacing: 1px;
   border: none;
-  color: #2e82ef;
+  color: #12A8DB;
 }
 
-.subscribeBtn:hover {
-  color: #2e82ef;
+.subscribeBtn:hover,
+.subscribeBtn:focus,
+.subscribeBtn:active {
+  color: #ffffff;
+  background: #000000 !important;
 }
 
 

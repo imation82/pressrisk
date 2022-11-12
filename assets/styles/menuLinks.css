@@ -8,13 +8,14 @@
 }
 
 .desktopView-items {
+  font-family: 'Poppins';
   display: inline-flex;
   width: 100%;
   padding-right: 35px;
   font-weight: 400;
   font-size: 18px;
   line-height: 18px;
-  letter-spacing: 1px;
+  letter-spacing: 0px;
   color: white;
   text-decoration: none;
 }
