@@ -16,7 +16,7 @@
                         </b-form-input>
                         <b-form-input class="input-field" id="input-large" size="lg" placeholder="Your Email">
                         </b-form-input>
-                        <b-form-textarea class="input-field" id="textarea-large" size="lg" placeholder="Your Meassage"
+                        <b-form-textarea class="input-field" id="textarea-large" size="lg" placeholder="Your Message"
                             rows="5">
                         </b-form-textarea>
 
