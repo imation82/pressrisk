@@ -18,12 +18,30 @@
 }
 
 .terms {
-    color: white
+    font-family: 'Poppins';
+    color: white;
+    font-size: 30px;
+}
+
+.terms:hover,
+.terms:focus,
+.terms:active {
+    background: transparent !important;
+    color: white;
 }
 
 .privacy {
+    font-family: 'Poppins';
     color: white;
+    font-size: 30px;
     margin-left: 60px;
+}
+
+.privacy:hover,
+.privacy:focus,
+.privacy:active {
+    background: transparent !important;
+    color: white;
 }
 
 .copyright {

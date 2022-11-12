@@ -38,7 +38,7 @@
                             with a deep respect for their work and their
                             colleagues. Click below to learn more.
                         </p>
-                        <b-btn class="submitBtn">Careers</b-btn>
+                        <b-btn class="submitBtn" href="https://www.linkedin.com/company/ctfn/about/">Careers</b-btn>
                     </div>
 
                 </b-col>
