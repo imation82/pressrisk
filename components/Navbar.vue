@@ -31,7 +31,7 @@
                     </transition>
                     <div class="subscribeButton">
                         <a class="contact-button-link">
-                            <b-btn class="subscribeBtn" href="#">Subscribe Portal</b-btn>
+                            <b-btn class="subscribeBtn" href="">Subscribe Portal</b-btn>
                         </a>
                     </div>
                 </main>
