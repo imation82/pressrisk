@@ -3,7 +3,7 @@
         <nav id="nav" :class="toggleNavClass()">
             <b-container>
                 <main class="main-content">
-                    <b-img src="../assets/images/logo.png" class="logo" fluid></b-img>
+                    <b-img src="../assets/images/logo.png" @click="$router.push('/')" class="logo" fluid></b-img>
                     <div class="navbar-links">
                         <MenuLinks />
                     </div>
