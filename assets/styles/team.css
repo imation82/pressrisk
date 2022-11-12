@@ -15,7 +15,7 @@
 .team-member {
     background: #12a8db;
     text-align: center;
-    height: 450px;
+    min-height: 450px;
     padding: 30px;
 }
 
@@ -30,7 +30,7 @@
 
 .team-bio {
     color: white;
-    font-size: 20px;
+    font-size: 16px;
 }
 
 .horizontal-line-style {
