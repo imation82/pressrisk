@@ -26,12 +26,12 @@
 
                 <b-col lg="6">
 
-                    <div class="text-right">
+                    <div class="text-left text-md-right mt-4 mt-md-0">
                         <h1 class="mb-4">Our Offices</h1>
                         <p class="location" v-for="(address, i) in addresses" :key="i">{{ address.location }}</p>
                     </div>
 
-                    <div class="join-section">
+                    <div class="join-section text-left text-md-right">
                         <h1>Join Us</h1>
                         <p class="join-description">We are seeking applicants who share our
                             passion for accurate and quality journalism,

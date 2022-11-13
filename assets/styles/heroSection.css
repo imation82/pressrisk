@@ -1,5 +1,5 @@
 .herosection {
-    padding: 200px 0px 100px 0px;
+    padding: 150px 0px 50px 0px;
 }
 
 .herosection-content {
@@ -8,7 +8,7 @@
 
 .herosection-content-items {
     color: black;
-    font-size: 48px;
+    font-size: 45px;
 }
 
 .hersection-content-description {
@@ -32,11 +32,20 @@
         color: black;
         font-size: 30px;
     }
+    .hersection-content-description {
+        max-width: 100%;
+    }
 
     .rightBorder {
         margin: 0 7px 0 7px;
         height: 40px;
         width: 6px;
         background: black;
+    }
+}
+
+@media (min-width:992px) and (max-width:1199px) {
+    .herosection-content-items {
+        font-size: 38px;
     }
 }
