@@ -1,8 +1,14 @@
 .terms-condition {
-    padding-top: 100px;
+    padding-top: 150px;
     padding-bottom: 200px;
 }
 
 h4 {
     color: black;
+}
+
+@media (max-width:991px) {
+    .terms-condition {
+        padding-bottom: 50px;
+    }
 }
