@@ -28,20 +28,14 @@
                                 </li>
                                 <li @click="iconShow = !iconShow" class="mobileView-items">
                                     <a href="">Subscribe Portal</a>
-                                </li>
-                                <li @click="iconShow = !iconShow" class="mobileView-items">
-                                    <a href="">Login</a>
-                                </li>                                                                 
+                                </li>                                                               
                             </ul>
                         </div>
                     </transition>
                     <div class="subscribeButton">
                         <a class="contact-button-link">
                             <b-btn class="subscribeBtn" href="">Subscribe Portal</b-btn>
-                        </a>
-                        <a class="contact-button-link">
-                            <b-btn class="subscribeBtn ml-2" href="">Login</b-btn>
-                        </a>                        
+                        </a>                      
                     </div>
                 </main>
             </b-container>
