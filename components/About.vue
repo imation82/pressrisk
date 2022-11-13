@@ -14,19 +14,9 @@
                 <b-col md="9">
                     <header>
                         <h1>About Us</h1>
-                        <p class="product-header-description">Founded by a team of former investment managers, and
-                            supported by experienced financial journalists, CTFN understands the questions on the minds
-                            of investors and professionals who are impacted by critical activity in mergers and special
-                            situations.</p>
-                        <p class="product-header-description">Our market-leading reporting and our proprietary data
-                            tools seek to address the questions and the information needs of investors and advisors
-                            following the nuanced developments in mergers, dynamic industry sectors, and key special
-                            situations.</p>
-                        <p class="product-header-description mb-5">CTFN provides time-sensitive updates for better
-                            decisions.</p>
-                        <a href="#trialForm">
-                            <b-btn class="submitBtn">Request a Trial</b-btn>
-                        </a>
+                        <p class="product-header-description">Pressrisk provides content distribution and SaaS platform tools to meet the technological demands of all publishers. Our proprietary natural language processing (NLP) data provides key insight on market-moving catalysts for subscribers.</p>
+                        <p class="product-header-description">Best-in-class API technology allows boutique publishers to clear the tech barrier open up exponential revenue growth via API distribution to quantitative funds that would be inaccessible without PressRisk.</p>
+                        <p class="product-header-description mb-5">Pressrisk’s verified delay function and a blockchain-based ledger that provides proof of simultaneous delivery.</p>
                     </header>
                 </b-col>
             </b-row>

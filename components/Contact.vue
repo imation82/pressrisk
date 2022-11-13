@@ -5,10 +5,7 @@
                 <b-col lg="6">
                     <header>
                         <h1>Contact Us</h1>
-                        <p class="contact-description">Get in touch with us to learn more about our reporting
-                            services, request a trial, or share your feedback on our
-                            stories. We are always available to assist our readers if
-                            the need arises.
+                        <p class="contact-description">Get in touch with us to learn more about our services, to discuss partnership opportunities or to request a consultation.
                         </p>
                     </header>
                     <div>
@@ -47,7 +44,7 @@
 
             <div class="commitment">
                 <h1>Commitment to Our Readers</h1>
-                <p class="commitment-description">CTFN is committed to quality journalism. We strive to meet our
+                <p class="commitment-description">Pressrisk is committed to quality journalism. We strive to meet our
                     readers’ needs for accurate
                     and timely information by employing hardworking reporters and analysts who share our core
                     values of integrity and a desire to seek the truth.</p>
@@ -66,15 +63,11 @@ export default {
         return {
             addresses: [
                 {
-                    location: "152 Main St., Westport, CT"
+                    location: "1100 15th St NW"
                 },
                 {
-                    location: "1100 15th St., Washington, DC"
-                },
-                {
-                    location: "7 Bell Yard, London WC2A 2JR, UK"
-                },
-
+                    location: "Washington, DC 20005"
+                }
             ]
         }
     },

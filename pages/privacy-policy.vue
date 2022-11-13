@@ -6,9 +6,9 @@
             </header>
             <div>
                 <h3 class="mb-2">Introduction</h3>
-                <p class="mb-3">Welcome to the CTFN, LLC's Privacy Policy.
+                <p class="mb-3">Welcome to the Pressrisk, LLC's Privacy Policy.
 
-                    CTFN, LLC respects your privacy and is committed to protecting your personal data. This Privacy
+                    Pressrisk, LLC respects your privacy and is committed to protecting your personal data. This Privacy
                     Policy will inform you as to how we look after your personal data when you visit our website
                     (regardless of where you visit it from) and tell you about your privacy rights and how the law
                     protects you.
@@ -33,38 +33,38 @@
             <div class="mb-4">
                 <h3 class="mb-3">Important information and who we are</h3>
                 <h4 class="mb-2">Purpose of this Privacy Policy</h4>
-                <p class="mb-3">This Privacy Policy aims to give you information on how CTFN, LLC collects and processes
+                <p class="mb-3">This Privacy Policy aims to give you information on how Pressrisk, LLC collects and processes
                     your
-                    personal data through your use of the ctfn.news website and its subdomains (collectively the Site),
+                    personal data through your use of the Pressrisk.news website and its subdomains (collectively the Site),
                     including any data you may provide through the Site when you complete the trial form in our homepage
-                    to request your CTFN account to be activated, when you sign in to your CTFN account, when you
+                    to request your Pressrisk account to be activated, when you sign in to your Pressrisk account, when you
                     request a subscription to our services, when you subscribe to our email alerts, when you contact us
                     by email or telephone, or when you purchase one of our services. This Site is not intended for
                     children under 16 years of age. No one under age 16 may provide any information to or on this Site.
                     We do not knowingly collect personal information from children under 16. If you are under 16, do not
                     use or provide any information on this Site or on or through any of its features/complete the trial
-                    form in our homepage to request a CTFN account, use any of the interactive or public comment
+                    form in our homepage to request a Pressrisk account, use any of the interactive or public comment
                     features of this Site or provide any information about yourself to us, including your name, address,
                     telephone number, email address, or any screen name or user name you may use. If we learn we have
                     collected or received personal information from a child under 16, we will delete that information.
                     If you believe we might have any information from or about a child under 16, please contact us at
-                    privacy@ctfn.news or by phone at +44 203 514 5314. It is important that you read this Privacy Policy
+                    privacy@Pressrisk.news or by phone at +44 203 514 5314. It is important that you read this Privacy Policy
                     together with any other privacy notice or fair processing notice we may provide on specific
                     occasions when we are collecting or processing personal data about you so that you are fully aware
                     of how and why we are using your data. This Privacy Policy supplements the other notices and is not
                     intended to override them.</p>
                 <h4 class="mb-2">Controller</h4>
-                <p class="mb-3">CTFN, LLC is the controller and responsible for your personal data (collectively
+                <p class="mb-3">Pressrisk, LLC is the controller and responsible for your personal data (collectively
                     referred to as
-                    "CTFN," "we," "us," or "our" in this Privacy Policy. We have appointed a data privacy manager who is
+                    "Pressrisk," "we," "us," or "our" in this Privacy Policy. We have appointed a data privacy manager who is
                     responsible for overseeing questions in relation to this Privacy Policy. If you have any questions
                     about this Privacy Policy, including any requests to exercise your legal rights, please contact the
                     data privacy manager using the details set out below.</p>
                 <h4 class="mb-2">Contact details</h4>
                 <p class="mb-3">Our full details are:
-                    CTFN, LLC
+                    Pressrisk, LLC
                     Name and title: Jonathan Spitzer, Data Privacy Manager
-                    Email address: privacy@ctfn.news
+                    Email address: privacy@Pressrisk.news
                     Postal address: 152 Main Street, Westport, CT 06880
                     Telephone number: +44 203 514 5314 or +1 203 635 6555
 
@@ -160,7 +160,7 @@
                         provide when you:</li>
                     <ul>
                         <li>complete the trial form to request a CFTN account on our Site;</li>
-                        <li>sign in to your CTFN account;</li>
+                        <li>sign in to your Pressrisk account;</li>
                         <li>request a subscription to our services;</li>
                         <li>subscribe to our email alerts;</li>
                         <li>request marketing to be sent to you;</li>
@@ -268,7 +268,7 @@
                     <li>Request transfer of your personal data.</li>
                     <li>Right to withdraw consent.</li>
                     <li>If you wish to exercise any of the rights set out above, please contact Jonathan Spitzer, Data
-                        Privacy Manager at privacy@ctfn.news.</li>
+                        Privacy Manager at privacy@Pressrisk.news.</li>
                 </ul>
                 <h4 class="mb-2">No Fee Usually Required</h4>
                 <p class="mb-3">You will not have to pay a fee to access your personal data (or to exercise any of the
@@ -378,7 +378,7 @@
             <div id="cookies" class="scroll-mt">
                 <h3 class="mb-3">Cookie Policy</h3>
                 <h4 class="mb-2">Information about our use of cookies</h4>
-                <p class="mb-3">CTFN uses cookies to distinguish you from other users of our website. This helps us to
+                <p class="mb-3">Pressrisk uses cookies to distinguish you from other users of our website. This helps us to
                     provide you
                     with a good experience when you browse our website and also allows us to improve our site.
 
@@ -423,7 +423,7 @@
                         <td>UTMA, UTMB, UTMC, UTMV, UTMZ</td>
                         <td>Google Analytics</td>
                         <td>
-                            These cookies are essential for our site to enables CTFN to:
+                            These cookies are essential for our site to enables Pressrisk to:
 
                             Identify visitors to the site.
                             Track the amount of time a user is on the site.
@@ -435,16 +435,16 @@
                                 style="color: blue">Google Developers Cookie Usage Documentation</a></td>
                     </tr>
                     <tr>
-                        <td>CTFN_Privacy</td>
-                        <td>CTFN</td>
+                        <td>Pressrisk_Privacy</td>
+                        <td>Pressrisk</td>
                         <td>
-                            Logs users consent to CTFN Privacy Policy and CTFN Cookies Policy.</td>
+                            Logs users consent to Pressrisk Privacy Policy and Pressrisk Cookies Policy.</td>
                         <td>None</td>
                     </tr>
                     <tr>
                         <td>XSRF-TOKEN</td>
                         <td>
-                            CTFN</td>
+                            Pressrisk</td>
                         <td>
                             Protects against cross site request forgery.</td>
                         <td>
@@ -461,8 +461,8 @@
                         <th>More information</th>
                     </tr>
                     <tr>
-                        <td>ctfn_session</td>
-                        <td>CTFN</td>
+                        <td>Pressrisk_session</td>
+                        <td>Pressrisk</td>
                         <td>
                             These cookies are essential for our site to:
 

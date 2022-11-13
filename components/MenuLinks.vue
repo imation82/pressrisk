@@ -2,7 +2,6 @@
   <ul class="menuLinks">
     <li><a href="/#about" class="desktopView-items">About</a></li>
     <li><a href="/#products" class="desktopView-items">Products</a></li>
-    <li><a href="/#team" class="desktopView-items">Team</a></li>
     <li><a href="/#contact" class="desktopView-items">Contact</a></li>
   </ul>
 </template>

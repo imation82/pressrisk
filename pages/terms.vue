@@ -2,14 +2,14 @@
     <section class="terms-condition">
         <b-container>
             <div class="mb-4">
-                <h4 class="mb-2">CTFN TERMS OF SERVICE</h4>
+                <h4 class="mb-2">PRESSRISK TERMS OF SERVICE</h4>
                 <p class="mb-2">Effective as of June 14, 2016 - Updated May 24, 2018</p>
                 <p class="mb-2">See our <a href="/privacy-policy" style="color:blue">Privacy Policy</a> and <a
                         href="/privacy-policy#cookies" style="color:blue">Cookies Policy.</a></p>
                 <p>The following Terms of Use (as amended from time to time, these "Terms") constitute a
                     binding
-                    agreement between you and CTFN, LLC ("we" or "us"), and govern your access to and use of the website
-                    and all associated content, located at https://ctfn.news and its subdomains (the "Site"). Our
+                    agreement between you and Pressrisk, LLC ("we" or "us"), and govern your access to and use of the website
+                    and all associated content, located at https://Pressrisk.news and its subdomains (the "Site"). Our
                     privacy policy located below (as amended from time to time, the "Privacy Policy") and is
                     incorporated by reference into these Terms. If you are a subscriber to the Site, you are also
                     subject to the subscriber agreement you entered into with us (as amended from time to time, the
@@ -26,7 +26,7 @@
                     paid or trial account. You also acknowledge that these Terms apply to any temporary access passes
                     (including a free trial subscription) granted for use of the Site just the same as for fully paid
                     subscriptions. If you have any questions or concerns about the Site or these Terms, please contact
-                    our representatives at contact@ctfn.news or by mail at 152 Main Street, Westport, CT, 06880.</p>
+                    our representatives at contact@Pressrisk.news or by mail at 1100 15th St NW Washington, DC 20005.</p>
             </div>
 
             <div class="mb-4">
@@ -168,8 +168,8 @@
                 <p class="mb-2">If you believe any material on the Site infringes upon any copyright which you own or
                     control, or
                     that any link on the Site directs users to another website that contains material that infringes
-                    upon any copyright which you own or control, please notify CTFN’s General Counsel Melissa Walker at
-                    melissa.walker@ctfn.news or 152 Main Street, Westport, CT, 06880.</p>
+                    upon any copyright which you own or control, please notify Pressrisk’s General Counsel Melissa Walker at
+                    melissa.walker@Pressrisk.news or 152 Main Street, Westport, CT, 06880.</p>
                 <p>Notifications should include the following information: Identification of material you claim to be
                     infringed. Identification of material you claim to be infringing (including location on the Site).
                     Your contact information. A statement by you that you have a good faith belief that the disputed use
@@ -205,7 +205,7 @@
             </div>
 
             <div>
-                <p>CTFN's Privacy Policy and Cookies Policy can be found here or contact us at privacy@ctfn.news.</p>
+                <p>Pressrisk's Privacy Policy and Cookies Policy can be found here or contact us at privacy@Pressrisk.news.</p>
             </div>
         </b-container>
     </section>
