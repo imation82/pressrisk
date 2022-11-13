@@ -48,8 +48,4 @@
 </template>
 <style scoped>
 @import "../assets/styles/team.css";
-
-.scroll-mt {
-    scroll-margin-top: 190px;
-}
 </style>

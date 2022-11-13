@@ -94,8 +94,4 @@
 </template>
 <style>
 @import "../assets/styles/products.css";
-
-.scroll-mt {
-    scroll-margin-top: 190px;
-}
 </style>
