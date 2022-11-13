@@ -1,5 +1,7 @@
 .products {
-    padding-bottom: 100px;
+    padding: 50px 0px;
+    border-top: 1px solid #ececec;
+    border-bottom: 1px solid #ececec;    
 }
 
 .products-header {

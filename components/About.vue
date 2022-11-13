@@ -36,8 +36,4 @@
 
 <style>
 @import "../assets/styles/about.css";
-/* 
-.scroll-mt {
-    scroll-margin-top: 190px;
-} */
 </style>

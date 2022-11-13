@@ -82,8 +82,4 @@ export default {
 </script>
 <style scoped>
 @import "../assets/styles/contact.css";
-
-.scroll-mt {
-    scroll-margin-top: 190px;
-}
 </style>
