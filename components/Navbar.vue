@@ -26,6 +26,12 @@
                                 <li @click="iconShow = !iconShow" class="mobileView-items">
                                     <a href="#contact">Contact</a>
                                 </li>
+                                <li @click="iconShow = !iconShow" class="mobileView-items">
+                                    <a href="">Subscribe Portal</a>
+                                </li>
+                                <li @click="iconShow = !iconShow" class="mobileView-items">
+                                    <a href="">Login</a>
+                                </li>                                                                 
                             </ul>
                         </div>
                     </transition>
@@ -33,6 +39,9 @@
                         <a class="contact-button-link">
                             <b-btn class="subscribeBtn" href="">Subscribe Portal</b-btn>
                         </a>
+                        <a class="contact-button-link">
+                            <b-btn class="subscribeBtn ml-2" href="">Login</b-btn>
+                        </a>                        
                     </div>
                 </main>
             </b-container>
