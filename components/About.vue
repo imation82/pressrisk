@@ -8,10 +8,10 @@
         </div>
         <b-container>
             <b-row>
-                <b-col cols="4">
-                    <b-img class="ad" src="../assets/images/left.png" alt="Advertisement" fluid></b-img>
+                <b-col md="3">
+                    <b-img class="d-none d-md-block" src="../assets/images/left.jpg" alt="Advertisement" fluid></b-img>
                 </b-col>
-                <b-col cols="8">
+                <b-col md="9">
                     <header>
                         <h1>About Us</h1>
                         <p class="product-header-description">Founded by a team of former investment managers, and
