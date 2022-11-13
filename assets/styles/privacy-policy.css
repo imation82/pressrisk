@@ -1,3 +1,9 @@
 .privacy-policy {
-    padding: 100px 0 200px 0;
+    padding: 150px 0 200px 0;
+}
+
+@media (max-width:991px) {
+    .privacy-policy {
+        padding-bottom: 50px;
+    }
 }
