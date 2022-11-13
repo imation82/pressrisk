@@ -12,7 +12,7 @@
                         multiple industries and sectors.</p>
                 </b-col>
                 <b-col lg="6">
-                    <b-img class="mt-4 mt-lg-0" src="../assets/images/hero/desktop.png" fluid></b-img>
+                    <b-img class="mt-4 mt-lg-0" src="../assets/images/hero/desktop.png" alt="Display" fluid></b-img>
                 </b-col>
             </b-row>
         </b-container>
