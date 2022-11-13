@@ -9,7 +9,7 @@
         <b-container>
             <b-row>
                 <b-col cols="4">
-                    <b-img class="ad" src="../assets/images/left.png" fluid></b-img>
+                    <b-img class="ad" src="../assets/images/left.png" alt="Advertisement" fluid></b-img>
                 </b-col>
                 <b-col cols="8">
                     <header>

@@ -3,7 +3,7 @@
         <nav id="nav" class="navbar-items">
             <b-container>
                 <main class="main-content">
-                    <b-img src="../assets/images/logo.png" @click="$router.push('/')" class="logo" fluid></b-img>
+                    <b-img src="../assets/images/logo.png" alt="Logo" @click="$router.push('/')" class="logo" fluid></b-img>
                     <div class="navbar-links">
                         <MenuLinks />
                     </div>
