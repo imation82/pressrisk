@@ -7,7 +7,7 @@
             <div class="text-center">
                 <b-img src="../assets/images/logo-footer.png" fluid></b-img>
                 <div class="terms-policy">
-                    <a href="#" class="terms">Terms of Service</a>
+                    <a href="/terms" class="terms">Terms of Service</a>
                     <a href="/privacy-policy" class="privacy">Privacy Policy</a>
                 </div>
                 <p class="copyright">© Copyright 2022 CTFN, All rights reserved.</p>
