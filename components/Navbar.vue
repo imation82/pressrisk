@@ -18,7 +18,7 @@
                                 <li @click="iconShow = !iconShow" class="mobileView-items"><a href="#about">About</a>
                                 </li>
                                 <li @click="iconShow = !iconShow" class="mobileView-items">
-                                    <a href="#products">Products</a>
+                                    <a :href="`/#products`">Products</a>
                                 </li>
                                 <li @click="iconShow = !iconShow" class="mobileView-items">
                                     <a href="#team">Team</a>

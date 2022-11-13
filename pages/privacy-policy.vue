@@ -375,7 +375,7 @@
                 </p>
             </div>
 
-            <div>
+            <div id="cookies" class="scroll-mt">
                 <h3 class="mb-3">Cookie Policy</h3>
                 <h4 class="mb-2">Information about our use of cookies</h4>
                 <p class="mb-3">CTFN uses cookies to distinguish you from other users of our website. This helps us to
@@ -508,5 +508,9 @@ th {
 
 th {
     text-align: center;
+}
+
+.scroll-mt {
+    scroll-margin-top: 190px;
 }
 </style>
