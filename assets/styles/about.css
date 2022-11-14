@@ -2,8 +2,21 @@
 .about {
     padding: 50px 0px;
     position: relative;
-    border-top: 1px solid #ececec;
-    border-bottom: 1px solid #ececec;    
+    background: #f7fdff;
+    border-top: 1px solid #e6f9ff;
+    border-bottom: 1px solid #e6f9ff;
+}
+
+.visual-top-right {
+    position: absolute;
+    right: 0;
+    top: 0;
+}
+
+.visual-bottom-left {
+    position: absolute;
+    left: 0;
+    bottom: 0;
 }
 
 h1 {
@@ -12,4 +25,21 @@ h1 {
 
 .about-header-description {
     padding-top: 20px;
+}
+
+.bounce {
+    -webkit-animation: float 6s ease-in-out infinite;
+    animation: float 6s ease-in-out infinite;
+}
+
+@keyframes float {
+	0% {
+		transform: translatey(0px);
+	}
+	50% {
+		transform: translatey(-20px);
+	}
+	100% {
+		transform: translatey(0px);
+	}
 }

@@ -1,15 +1,15 @@
 <template>
     <section id="about" class="about scroll-mt">
-        <div class="visual-top">
-
+        <div class="visual-top-right">
+            <b-img src="../assets/images/top-right.png" alt="Top right"></b-img>
         </div>
-        <div class="visual-bottom">
-
+        <div class="visual-bottom-left">
+            <b-img src="../assets/images/bottom-left.png" alt="Bottom left"></b-img>
         </div>
         <b-container>
             <b-row>
                 <b-col md="3">
-                    <b-img class="d-none d-md-block" src="../assets/images/left.jpg" alt="Advertisement" fluid></b-img>
+                    <b-img class="bounce d-none d-md-block" src="../assets/images/left.png" alt="Advertisement" fluid></b-img>
                 </b-col>
                 <b-col md="9">
                     <header>
